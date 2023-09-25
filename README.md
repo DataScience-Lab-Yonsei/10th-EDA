@@ -18,7 +18,7 @@
 |2|남승우|김영호<br>신재우<br>임창재|교육<br>(Bet!)|[PDF](Team_B/EDA_B조.pdf)|[Code](Team_B)|
 |3|정주영|강건우<br>이준린<br>정성오|문화<br>(드라마 시청률과 사회적 영향력 분석)|[PDF](Team_C/EDA-C조.pdf)|[Code](Team_C/SourceCode)|
 |4|김영현|박성원<br>윤형진|의료<br>(대한민국 의료 자원 분배 현황 분석 및 개선점 제안)|[PDF](Team_D/EDA_D조_발표자료.pdf)|[Code](Team_D)|
-|5|김진하|유현동<br>윤희찬|교통<br>(지하철 노선 개편 방안)|[PDF](link)|[Code](code)|
+|5|김진하|유현동<br>윤희찬|교통<br>(지하철 노선 개편 방안)|[PDF](Team_E/EDA_E조_발표자료.pdf)|[Code](Team_E/Codes)|
 
 <br><br>
 
